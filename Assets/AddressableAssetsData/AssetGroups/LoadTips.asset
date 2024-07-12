@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LoadTips
+  m_EditorClassIdentifier: 
+  m_GroupName: LoadTips
+  m_GUID: ffd0d0505a9e3bc448faa5dbe3ec7939
+  m_SerializeEntries:
+  - m_GUID: 63b4e11a9215b054fbc73d39839c6b7a
+    m_Address: Assets/LoadTips.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LoadTips
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ac75200cb24ef06419a87c9f74902020, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 15df105852aae37469947f63075a4d33, type: 2}
+    - {fileID: 11400000, guid: c0a5c99f75433f44281994f2615ae785, type: 2}
