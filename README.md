@@ -1,2 +1,2 @@
-# SillyRagdolls
- A Ragdoll Fighting Multiplayer Game. Big challenge most likely
+# Networking Test Project
+ Designed to be a playground for testing multiple networked features, gameplay types, and connection logic
